@@ -1,4 +1,4 @@
-# Thread Detect
+# Threat Detect
 
 This Python script allows you to scan a URL for malware using the VirusTotal API. After scanning, the script generates a detailed report on the scan results and opens it in your default web browser.
 
